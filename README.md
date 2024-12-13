@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Nursyahputra Uliyanto 👋
+# Hi, I'm Muhammad Nursyahputra Juliyanto 👋
 
 Welcome to my GitHub profile! I'm an Android Developer passionate about building efficient and user-friendly applications. Below are some of my skills and tools:
 

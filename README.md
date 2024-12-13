@@ -3,11 +3,13 @@
 Welcome to my GitHub profile! I'm an Android Developer passionate about building efficient and user-friendly applications. Below are some of my skills and tools:
 
 ## 🛠 Skills & Tools
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-blue?logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-green?logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Design-Figma-red?logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Design-Adobe%20Photoshop-blue?logo=adobe-photoshop&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="50" height="50"/>
+</p>
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
